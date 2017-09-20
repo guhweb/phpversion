@@ -1,0 +1,15 @@
+{
+    "name": "gustavoweb/phpversion",
+    "description": "Show phpversion data",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gustavo Web",
+            "email": "gustavo@upinside.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"PHPVersion\\": "src"}
+    }
+}
